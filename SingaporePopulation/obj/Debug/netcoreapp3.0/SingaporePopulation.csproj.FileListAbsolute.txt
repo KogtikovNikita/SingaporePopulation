@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.exe
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.deps.json
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.runtimeconfig.json
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.dll
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.pdb
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.dll
+C:\Users\Administrator\Desktop\Use Case 3\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.pdb
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.exe
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.deps.json
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.runtimeconfig.json
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.dll
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\bin\Debug\netcoreapp3.0\SingaporePopulation.pdb
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.dll
+C:\Users\Administrator\Desktop\Use Case 3 — копия\SingaporePopulation\obj\Debug\netcoreapp3.0\SingaporePopulation.pdb

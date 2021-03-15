@@ -1,0 +1,323 @@
+Admiralty	14410	14410
+Airport Road	0	0
+Alexandra Hill	15650	15650
+Alexandra North	1000	1000
+Aljunied	41710	41710
+Anak Bukit	21990	21990
+Anchorvale	38030	38040
+Ang Mo Kio Town Centre	5020	5020
+Anson	0	80
+Balestier	32340	32340
+Bangkit	23810	23800
+Bayfront Subzone	0	0
+Bayshore	7470	7480
+Bedok North	85940	85930
+Bedok Reservoir	25390	25400
+Bedok South	51190	51190
+Bencoolen	1470	1460
+Bendemeer	33830	33830
+Benoi Sector	0	0
+Bidadari	0	10
+Bishan East	28820	28820
+Boat Quay	180	180
+Boon Keng	10970	10970
+Boon Lay Place	31110	31100
+Boon Teck	15110	15110
+Boulevard	400	400
+Braddell	10770	10760
+Bras Basah	0	10
+Brickworks	0	0
+Bugis	2330	2330
+Bukit Batok Central	26070	26060
+Bukit Batok East	14570	14570
+Bukit Batok South	13950	13940
+Bukit Batok West	15200	15190
+Bukit Ho Swee	16300	16290
+Bukit Merah	1190	1190
+Cairnhill	3340	3330
+Cecil	160	160
+Central Subzone	470	480
+Central Water Catchment	0	10
+Changi Airport	0	0
+Changi Bay	0	0
+Changi Point	800	790
+Changi West	1740	1740
+Chatsworth	5740	5740
+Cheng San	29770	29770
+Chin Bee	0	0
+China Square	1590	1590
+Chinatown	11870	11880
+Choa Chu Kang Central	21400	21400
+Choa Chu Kang North	34380	34380
+Chong Boon	27900	27900
+City Hall	0	60
+City Terminals	0	40
+Clarke Quay	130	130
+Clementi Central	13490	13490
+Clementi North	28720	28730
+Clementi West	16470	16470
+Clementi Woods	16410	16400
+Clifford Pier	0	0
+Commonwealth	8130	8130
+Compassvale	18510	18510
+Coney Island	0	0
+Coronation Road	6170	6170
+Crawford	9740	9740
+Dairy Farm	5400	5390
+Defu Industrial Park	0	20
+Depot Road	5190	5200
+Dhoby Ghaut	210	210
+Dover	13190	13200
+Dunearn	3900	3900
+East Coast	0	0
+Everton Park	9010	9010
+Faber	4320	4320
+Fajar	26770	26770
+Farrer Court	4690	4680
+Farrer Park	3130	3130
+Fernvale	35600	35590
+Flora Drive	12960	12950
+Fort Canning	160	160
+Frankel	33570	33570
+Gali Batu	130	130
+Geylang Bahru	12860	12870
+Geylang East	33380	33380
+Ghim Moh	11900	11900
+Gombak	9830	9820
+Goodwood Park	900	910
+Greenwood Park	0	70
+Guilin	13130	13130
+Gul Basin	0	20
+Gul Circle	0	30
+Henderson Hill	12870	12870
+Hillcrest	8810	8810
+Hillview	18210	18220
+Holland Drive	14220	14230
+Holland Road	10280	10280
+Hong Kah	56870	56870
+Hong Kah North	28340	28340
+Hougang Central 	4830	4830
+Hougang East	21940	21940
+Hougang West	50120	50120
+Institution Hill	3380	3380
+International Business Park	0	10
+Istana Negara	0	40
+Jelebu	33470	33470
+Joo Koon	0	40
+Joo Seng	6730	6720
+Jurong Gateway	0	20
+Jurong Island and Bukom	0	0
+Jurong Port	0	10
+Jurong River	0	10
+Jurong West Central	68200	68200
+Kaki Bukit	40820	40820
+Kallang Bahru	0	30
+Kallang Way	0	40
+Kampong Bugis	890	890
+Kampong Glam	180	170
+Kampong Java	11250	11260
+Kampong Tiong Bahru	10460	10460
+Kampong Ubi	13210	13210
+Kangkar	26080	26080
+Katong	9620	9620
+Keat Hong	15660	15660
+Kebun Bahru	23920	23910
+Kembangan	38440	38440
+Kent Ridge	1080	1080
+Khatib	10840	10850
+Kian Teck	0	50
+Kim Keat	8610	8610
+Kovan	25640	25640
+Kranji	0	20
+Lakeside	1000	1010
+Lavender	10310	10320
+Leedon Park	6250	6260
+Leonie Hill	2450	2450
+Lim Chu Kang	0	90
+Little India	3860	3850
+Liu Fang	0	10
+Lorong 8 Toa Payoh	8220	8220
+Lorong Ah Soo	34180	34180
+Lorong Chuan	8400	8390
+Lorong Halus North	0	0
+Lorong Halus	0	0
+Lower Seletar	2870	2870
+Loyang East	2190	2190
+Loyang West	200	200
+Mackenzie	110	110
+MacPherson	28630	28630
+Malcolm	2630	2630
+Mandai East	0	0
+Mandai Estate	2110	2120
+Mandai West	0	0
+Margaret Drive	10520	10520
+Marina Centre	0	20
+Marina East	0	0
+Marina East	0	0
+Marina South	0	0
+Marine Parade	28910	28910
+Maritime Square	2560	2560
+Marymount	31530	31540
+Matilda	30440	30440
+Maxwell	0	0
+Mei Chin	16750	16750
+Midview	35520	35510
+Monk's Hill	980	980
+Moulmein	8460	8470
+Mount Emily	1100	1110
+Mount Pleasant	650	650
+Mountbatten	10210	10210
+Nassim	8340	8340
+National University of Singapore	360	360
+Nature Reserve	3860	3870
+Nee Soon	900	900
+Newton Circus	220	230
+North Coast	14600	14610
+North-Eastern Islands	0	60
+Northland	30380	30380
+Northshore	290	280
+One North	610	620
+One Tree Hill	1840	1840
+Orange Grove	1430	1440
+Oxley	1380	1380
+Pandan	0	10
+Pang Sua	0	20
+Pasir Panjang 1	4000	4010
+Pasir Panjang 2	3510	3520
+Pasir Ris Central	25720	25730
+Pasir Ris Drive	59480	59480
+Pasir Ris Park	2980	2980
+Pasir Ris Wafer Fab Park	0	20
+Pasir Ris West	36330	36330
+Paterson	150	150
+Paya Lebar East	0	10
+Paya Lebar North	0	20
+Paya Lebar West	0	0
+Pearl's Hill	8230	8230
+Pei Chun	11780	11780
+Peng Siang	32130	32130
+Penjuru Crescent	0	10
+People's Park	390	390
+Phillip	0	0
+Pioneer Sector	0	0
+Plab	0	0
+Port	140	140
+Potong Pasir	12660	12650
+Pulau Punggol Barat	0	0
+Pulau Punggol Timor	0	0
+Pulau Seletar	0	0
+Punggol Canal	0	0
+Punggol Field	43300	43300
+Punggol Town Centre	7400	7390
+Queensway	280	280
+Raffles Place	0	60
+Redhill	12210	12210
+Reservoir View	0	20
+Ridout	1410	1400
+Rivervale	59860	59860
+Robertson Quay	2420	2420
+Rochor Canal	0	10
+Safti	0	0
+Samulun	0	10
+Saujana	25530	25530
+Selegie	270	270
+Seletar	250	260
+Seletar Aerospace Park	0	20
+Seletar Hills	13570	13580
+Semakau	0	0
+Sembawang Central	29140	29140
+Sembawang East	0	90
+Sembawang Hills	6890	6890
+Sembawang North	26860	26860
+Sembawang Springs	4300	4290
+Sembawang Straits	1700	1700
+Sengkang Town Centre	54670	54680
+Sengkang West	0	10
+Senja	20190	20200
+Sennett	4540	4540
+Senoko North	0	20
+Senoko South	0	20
+Senoko West	0	20
+Sentosa	1480	1470
+Serangoon Central	26480	26480
+Serangoon Garden	39180	39180
+Serangoon North	17480	17490
+Serangoon North Ind Estate	0	20
+Shangri-La	18510	18510
+Shipyard	0	0
+Siglap	6940	6930
+Simei	42720	42710
+Simpang North	0	0
+Simpang South	0	0
+Singapore General Hospital	0	10
+Singapore Polytechnic	160	160
+Somerset	130	130
+Southern Group	0	0
+Springleaf	3880	3880
+Straits View	0	0
+Sudong	0	0
+Sungei Road	2420	2420
+Sunset Way	6280	6290
+Swiss Club	5550	5550
+Tagore	8340	8350
+Tai Seng	14710	14700
+Taman Jurong	36950	36940
+Tampines East	138500	138500
+Tampines North	0	0
+Tampines West	78120	78110
+Tanglin	390	390
+Tanglin Halt	13160	13160
+Tanjong Irau	0	0
+Tanjong Pagar	520	520
+Tanjong Rhu	11320	11310
+Teban Gardens	19080	19080
+Teck Whye	27040	27040
+Telok Blangah Drive	16000	16000
+Telok Blangah Rise	13820	13820
+Telok Blangah Way	10690	10690
+Tengah	0	10
+Tengeh	0	0
+The Wharves	0	0
+Tiong Bahru	12200	12190
+Tiong Bahru Station	16670	16670
+Toa Payoh Central	30750	30740
+Toa Payoh West	13360	13360
+Toh Guan	16510	16510
+Toh Tuck	0	40
+Townsville	23770	23770
+Trafalgar	44810	44800
+Tuas Bay	0	20
+Tuas North	0	20
+Tuas Promenade	0	10
+Tuas View	0	10
+Tuas View Extension	0	0
+Tukang	0	10
+Turf Club	660	660
+Tyersall	3530	3520
+Ulu Pandan	10740	10730
+Upper Paya Lebar	15550	15540
+Upper Thomson	30350	30340
+Victoria	2060	2060
+Waterway East	28350	28340
+Wenya	8610	8610
+West Coast	5890	5890
+Western Water Catchment	900	900
+Woodgrove	35850	35850
+Woodlands East	95510	95510
+Woodlands Regional Centre	0	0
+Woodlands South	35840	35840
+Woodlands West	32880	32890
+Woodleigh	2440	2440
+Xilin	1920	1920
+Yew Tee	43710	43710
+Yio Chu Kang	0	30
+Yio Chu Kang East	4090	4080
+Yio Chu Kang North	0	0
+Yio Chu Kang West	26540	26550
+Yishun Central	1490	1490
+Yishun East	54880	54880
+Yishun South	38850	38840
+Yishun West	57890	57890
+Yuhua East	27460	27460
+Yuhua West	20870	20870
+Yunnan	70900	70890

@@ -1,0 +1,323 @@
+Admiralty	11970	470	0	4670	6830	0	10	40
+Airport Road	0	0	0	0	0	0	0	0
+Alexandra Hill	15890	4380	3250	4570	3680	0	0	460
+Alexandra North	0	0	0	0	0	800	0	0
+Aljunied	33170	2240	12190	11580	7160	8850	740	1140
+Anak Bukit	6030	0	50	2450	3530	7780	7850	340
+Anchorvale	30750	200	240	10340	19970	0	0	0
+Ang Mo Kio Town Centre	3390	0	510	750	2130	1540	0	50
+Anson	0	0	0	0	0	0	0	0
+Balestier	22970	1980	8690	6910	5380	7770	580	1170
+Bangkit	23830	0	3350	14270	6210	1440	0	10
+Bayfront Subzone	0	0	0	0	0	0	0	0
+Bayshore	0	0	0	0	0	5890	460	150
+Bedok North	81820	3620	38020	28370	11810	3770	4750	800
+Bedok Reservoir	19160	0	3220	9300	6640	3850	0	70
+Bedok South	34480	1760	10030	14850	7830	5550	11770	520
+Bencoolen	1240	60	1060	120	0	310	0	60
+Bendemeer	25840	1650	9380	10190	4620	2870	710	600
+Benoi Sector	0	0	0	0	0	0	0	0
+Bidadari	0	0	0	0	0	0	0	0
+Bishan East	29060	0	2250	12920	13890	1270	0	50
+Boat Quay	0	0	0	0	0	110	0	60
+Boon Keng	10870	1020	2750	4500	2600	30	190	70
+Boon Lay Place	21760	1940	12790	2590	4440	2570	0	60
+Boon Teck	16050	5260	5450	1410	3930	0	0	310
+Boulevard	0	0	0	0	0	170	0	100
+Braddell	11440	1660	4670	2240	2890	0	0	90
+Bras Basah	0	0	0	0	0	0	0	0
+Brickworks	0	0	0	0	0	0	0	0
+Bugis	2580	0	1430	1130	30	40	0	80
+Bukit Batok Central	25100	120	4630	12290	8070	1400	0	60
+Bukit Batok East	15780	0	7190	6100	2490	0	0	140
+Bukit Batok South	12600	0	0	6720	5880	1350	660	40
+Bukit Batok West	16220	0	6140	6420	3660	0	0	60
+Bukit Ho Swee	15830	4350	7770	1960	1750	490	0	170
+Bukit Merah	1230	0	180	20	1040	0	0	80
+Cairnhill	0	0	0	0	0	2270	460	110
+Cecil	0	0	0	0	0	0	0	0
+Central Subzone	0	0	0	0	0	200	0	0
+Central Water Catchment	0	0	0	0	0	0	0	0
+Changi Airport	0	0	0	0	0	0	0	0
+Changi Bay	0	0	0	0	0	0	0	0
+Changi Point	430	0	420	0	0	40	120	180
+Changi West	0	0	0	0	0	10	240	1130
+Chatsworth	0	0	0	0	0	3860	1000	170
+Cheng San	30320	890	16370	8850	4210	0	0	180
+Chin Bee	0	0	0	0	0	0	0	0
+China Square	1710	0	1620	0	90	60	0	20
+Chinatown	8680	1040	3350	3170	1110	310	10	260
+Choa Chu Kang Central	16410	0	0	9580	6830	3870	0	0
+Choa Chu Kang North	28420	330	0	9670	18420	2580	2210	0
+Chong Boon	29650	1670	14800	9510	3670	0	0	250
+City Hall	0	0	0	0	0	0	0	0
+City Terminals	0	0	0	0	0	0	0	0
+Clarke Quay	0	0	0	0	0	60	0	70
+Clementi Central	11700	0	5090	5790	830	0	970	350
+Clementi North	23610	620	11260	8340	3400	0	0	260
+Clementi West	15240	0	9180	4670	1390	1980	200	120
+Clementi Woods	18620	1440	7390	6200	3600	1580	300	500
+Clifford Pier	0	0	0	0	0	0	0	0
+Commonwealth	8690	1880	6480	330	0	0	0	40
+Compassvale	11940	0	0	10860	1090	1600	0	80
+Coney Island	0	0	0	0	0	0	0	0
+Coronation Road	0	0	0	0	0	1430	4100	110
+Crawford	9510	4680	3060	960	810	330	0	190
+Dairy Farm	0	0	0	0	0	1880	1860	10
+Defu Industrial Park	0	0	0	0	0	0	0	0
+Depot Road	4200	0	0	1880	2320	0	0	10
+Dhoby Ghaut	0	0	0	0	0	150	0	30
+Dover	9660	470	2970	3250	2970	2180	50	80
+Dunearn	0	0	0	0	0	630	3080	30
+East Coast	0	0	0	0	0	0	0	0
+Everton Park	8200	0	1880	2540	3780	620	170	270
+Faber	0	0	0	0	0	2810	1600	70
+Fajar	22990	0	0	11400	11590	0	0	0
+Farrer Court	2090	0	1160	590	340	950	900	150
+Farrer Park	2920	0	370	2110	440	120	70	300
+Fernvale	12430	110	790	7050	4470	10	330	20
+Flora Drive	0	0	0	0	0	8110	3270	510
+Fort Canning	0	0	0	0	0	140	0	10
+Frankel	240	230	0	0	0	10920	19570	810
+Gali Batu	0	0	0	0	0	0	0	150
+Geylang Bahru	13620	1300	8440	1570	2310	0	0	120
+Geylang East	22510	2150	7920	6640	4430	5100	4360	590
+Ghim Moh	11740	1630	6220	2330	1560	0	0	90
+Gombak	7020	0	0	4160	2860	280	1470	90
+Goodwood Park	0	0	0	0	0	620	100	20
+Greenwood Park	0	0	0	0	0	0	0	0
+Guilin	9140	0	3900	2700	2540	4760	0	10
+Gul Basin	0	0	0	0	0	0	0	0
+Gul Circle	0	0	0	0	0	0	0	0
+Henderson Hill	15370	4540	5760	4060	1020	150	0	100
+Hillcrest	0	0	0	0	0	3150	5010	170
+Hillview	0	0	0	0	0	15530	2350	70
+Holland Drive	15280	600	8090	3990	2600	0	10	80
+Holland Road	0	0	0	0	0	4270	4130	50
+Hong Kah	56670	0	13800	27880	14980	2760	0	230
+Hong Kah North	28490	0	8720	15080	4680	1310	0	270
+Hougang Central 	4610	0	90	1480	2130	0	870	40
+Hougang East	15250	0	1150	12720	6980	0	0	20
+Hougang West	51400	0	8760	29060	13580	0	0	280
+Institution Hill	0	0	0	0	0	2620	40	30
+International Business Park	0	0	0	0	0	0	0	0
+Istana Negara	0	0	0	0	0	0	0	0
+Jelebu	28100	0	4540	11460	12100	6190	650	20
+Joo Koon	0	0	0	0	0	0	0	0
+Joo Seng	5040	0	970	1940	2130	260	1390	160
+Jurong Gateway	2520	0	810	850	860	0	0	30
+Jurong Island and Bukom	0	0	0	0	0	0	0	0
+Jurong Port	0	0	0	0	0	0	0	0
+Jurong River	0	0	0	0	0	0	0	0
+Jurong West Central	68270	0	0	27080	41180	1050	0	10
+Kaki Bukit	42440	340	7370	17810	16920	360	840	150
+Kallang Bahru	0	0	0	0	0	0	0	0
+Kallang Way	0	0	0	0	0	0	0	0
+Kampong Bugis	790	0	0	660	120	10	0	20
+Kampong Glam	0	0	0	0	0	20	10	150
+Kampong Java	8760	360	2310	4240	1850	2490	630	230
+Kampong Tiong Bahru	11500	2150	5580	2420	1340	0	0	250
+Kampong Ubi	14020	0	1230	10550	2240	0	0	100
+Kangkar	23790	790	5300	7780	4170	5260	360	130
+Katong	0	0	0	0	0	4690	4360	350
+Keat Hong	13880	0	0	8590	5300	2140	260	120
+Kebun Bahru	24310	1950	12840	7060	2470	0	1210	330
+Kembangan	25430	3280	8330	5900	7920	4230	8540	520
+Kent Ridge	0	0	0	0	0	1220	90	30
+Khatib	11620	0	1930	5120	4580	0	0	20
+Kian Teck	0	0	0	0	0	0	0	0
+Kim Keat	8930	0	3730	2930	2270	0	0	60
+Kovan	6170	0	920	2780	1180	4670	11880	360
+Kranji	0	0	0	0	0	0	0	0
+Lakeside	0	0	0	0	0	1120	0	20
+Lavender	7060	2520	1580	1930	1030	2860	60	580
+Leedon Park	0	0	0	0	0	1920	3890	20
+Leonie Hill	0	0	0	0	0	2110	50	110
+Lim Chu Kang	0	0	0	0	0	0	0	0
+Little India	3630	0	1560	1770	300	100	40	390
+Liu Fang	0	0	0	0	0	0	0	0
+Lorong 8 Toa Payoh	8600	470	2470	3470	2190	0	0	70
+Lorong Ah Soo	29770	0	9720	12170	7890	830	3510	350
+Lorong Chuan	0	0	0	0	0	4100	4310	210
+Lorong Halus North	0	0	0	0	0	0	0	0
+Lorong Halus	0	0	0	0	0	0	0	0
+Lower Seletar	0	0	0	0	0	0	1060	0
+Loyang East	0	0	0	0	0	840	1160	30
+Loyang West	0	0	0	0	0	0	0	0
+Mackenzie	0	0	0	0	0	0	0	0
+MacPherson	27090	5200	13100	5330	3460	790	1930	250
+Malcolm	0	0	0	0	0	870	1730	90
+Mandai East	0	0	0	0	0	0	0	0
+Mandai Estate	0	0	0	0	0	1140	660	70
+Mandai West	0	0	0	0	0	0	0	0
+Margaret Drive	8960	30	890	5260	2780	10	20	30
+Marina Centre	0	0	0	0	0	0	0	0
+Marina East	0	0	0	0	0	0	0	0
+Marina East	0	0	0	0	0	0	0	0
+Marina South	0	0	0	0	0	0	0	0
+Marine Parade	23000	3460	7680	5840	6020	5220	150	180
+Maritime Square	0	0	0	0	0	1450	100	380
+Marymount	24030	0	0	15360	8670	2030	3050	150
+Matilda	6670	0	0	2110	4550	0	0	0
+Maxwell	0	0	0	0	0	0	0	0
+Mei Chin	14380	1760	6450	3130	3030	2600	200	160
+Midview	34400	540	490	14830	18550	0	0	230
+Monk's Hill	0	0	0	0	0	1130	10	10
+Moulmein	220	0	0	220	0	5300	1310	240
+Mount Emily	0	0	0	0	0	760	100	110
+Mount Pleasant	0	0	0	0	0	0	640	20
+Mountbatten	0	0	0	0	0	4080	5170	110
+Nassim	0	0	0	0	0	5670	1740	120
+National University of Singapore	0	0	0	0	0	0	0	310
+Nature Reserve	0	0	0	0	0	3090	470	40
+Nee Soon	0	0	0	0	0	410	490	0
+Newton Circus	0	0	0	0	0	0	0	0
+North Coast	15220	160	6160	6410	2480	0	10	40
+North-Eastern Islands	0	0	0	0	0	0	0	0
+Northland	32620	0	7960	18140	6520	0	0	120
+Northshore	0	0	0	0	0	0	250	0
+One North	0	0	0	0	0	300	50	40
+One Tree Hill	0	0	0	0	0	300	50	40
+Orange Grove	0	0	0	0	0	1310	10	20
+Oxley	0	0	0	0	0	1190	160	70
+Pandan	0	0	0	0	0	0	0	0
+Pang Sua	0	0	0	0	0	0	0	0
+Pasir Panjang 1	0	0	0	0	0	2110	1360	130
+Pasir Panjang 2	0	0	0	0	0	1630	1790	60
+Pasir Ris Central	18920	0	0	4590	14330	1500	380	10
+Pasir Ris Drive	59460	40	0	25620	33800	1810	0	220
+Pasir Ris Park	0	0	0	0	0	1000	290	10
+Pasir Ris Wafer Fab Park	0	0	0	0	0	0	0	0
+Pasir Ris West	31520	0	0	11860	19660	2570	2200	10
+Paterson	0	0	0	0	0	80	20	10
+Paya Lebar East	0	0	0	0	0	0	0	0
+Paya Lebar North	0	0	0	0	0	0	0	0
+Paya Lebar West	0	0	0	0	0	0	0	0
+Pearl's Hill	7040	5210	1380	340	20	990	0	310
+Pei Chun	12220	440	6170	3230	2380	0	0	100
+Peng Siang	30980	0	0	19090	11890	0	0	280
+Penjuru Crescent	0	0	0	0	0	0	0	0
+People's Park	0	0	0	0	0	460	0	10
+Phillip	0	0	0	0	0	0	0	0
+Pioneer Sector	0	0	0	0	0	0	0	0
+Plab	0	0	0	0	0	0	0	0
+Port	0	0	0	0	0	0	110	180
+Potong Pasir	12250	0	5890	4470	1240	920	80	70
+Pulau Punggol Barat	0	0	0	0	0	0	0	0
+Pulau Punggol Timor	0	0	0	0	0	0	0	0
+Pulau Seletar	0	0	0	0	0	0	0	0
+Punggol Canal	0	0	0	0	0	0	0	0
+Punggol Field	42340	0	0	12190	30150	0	0	0
+Punggol Town Centre	1540	0	0	1540	0	0	0	0
+Queensway	0	0	0	0	0	280	20	20
+Raffles Place	0	0	0	0	0	0	0	0
+Redhill	11380	1930	2820	3200	3440	410	0	120
+Reservoir View	0	0	0	0	0	0	0	0
+Ridout	0	0	0	0	0	480	740	50
+Rivervale	51190	0	0	20580	30610	5130	250	0
+Robertson Quay	0	0	0	0	0	1660	0	40
+Rochor Canal	0	0	0	0	0	0	0	0
+Safti	0	0	0	0	0	0	0	0
+Samulun	0	0	0	0	0	0	0	0
+Saujana	21960	0	0	9750	12210	0	0	0
+Selegie	0	0	0	0	0	270	30	30
+Seletar	0	0	0	0	0	0	290	40
+Seletar Aerospace Park	0	0	0	0	0	0	0	0
+Seletar Hills	0	0	0	0	0	1320	10720	70
+Semakau	0	0	0	0	0	0	0	0
+Sembawang Central	29900	0	0	11660	18240	180	0	0
+Sembawang East	0	0	0	0	0	0	110	0
+Sembawang Hills	0	0	0	0	0	160	6590	100
+Sembawang North	25810	0	0	11580	14230	0	0	20
+Sembawang Springs	0	0	0	0	0	1240	1960	330
+Sembawang Straits	0	0	0	0	0	20	1080	10
+Sengkang Town Centre	50550	0	160	18510	31880	1330	250	10
+Sengkang West	0	0	0	0	0	50	750	370
+Senja	16020	0	0	7520	8500	0	0	170
+Sennett	0	0	0	0	0	140	4090	190
+Senoko North	0	0	0	0	0	0	0	0
+Senoko South	0	0	0	0	0	0	0	0
+Senoko West	0	0	0	0	0	0	0	0
+Sentosa	0	0	0	0	0	360	260	10
+Serangoon Central	23290	0	4980	12710	5600	3750	1270	150
+Serangoon Garden	23350	0	5530	12210	4660	1170	15320	630
+Serangoon North	18670	0	0	7570	11090	0	0	30
+Serangoon North Ind Estate	0	0	0	0	0	0	0	0
+Shangri-La	20680	3060	9370	6010	2240	0	300	100
+Shipyard	0	0	0	0	0	0	0	0
+Siglap	0	0	0	0	0	7340	0	120
+Simei	26490	0	200	13550	12740	11920	4190	260
+Simpang North	0	0	0	0	0	0	0	0
+Simpang South	0	0	0	0	0	0	0	0
+Singapore General Hospital	0	0	0	0	0	0	0	0
+Singapore Polytechnic	0	0	0	0	0	0	0	150
+Somerset	0	0	0	0	0	80	0	40
+Southern Group	0	0	0	0	0	0	0	0
+Springleaf	0	0	0	0	0	90	3420	50
+Straits View	0	0	0	0	0	0	0	0
+Sudong	0	0	0	0	0	0	0	0
+Sungei Road	2450	720	1220	460	50	10	0	50
+Sunset Way	3910	0	300	1420	2200	1960	890	30
+Swiss Club	0	0	0	0	0	1700	3400	130
+Tagore	0	0	0	0	0	1740	5420	130
+Tai Seng	8160	0	80	5510	2580	470	3860	420
+Taman Jurong	28880	1320	4620	11500	11440	2660	740	60
+Tampines East	134850	680	26140	56890	51150	3300	0	650
+Tampines North	0	0	0	0	0	0	0	0
+Tampines West	74660	350	10030	37370	26910	2900	0	390
+Tanglin	0	0	0	0	0	390	0	30
+Tanglin Halt	14290	1930	9600	2370	390	0	0	90
+Tanjong Irau	0	0	0	0	0	0	0	0
+Tanjong Pagar	0	0	0	0	0	360	0	70
+Tanjong Rhu	4520	640	2440	480	960	6430	60	110
+Teban Gardens	19200	0	6280	7450	5470	0	0	10
+Teck Whye	26850	660	4200	12650	9340	0	0	40
+Telok Blangah Drive	15720	1390	5040	5230	4060	330	40	80
+Telok Blangah Rise	13930	900	5290	6390	1350	840	140	110
+Telok Blangah Way	11030	2140	5490	1800	1590	0	0	110
+Tengah	0	0	0	0	0	0	0	0
+Tengeh	0	0	0	0	0	0	0	0
+The Wharves	0	0	0	0	0	0	0	0
+Tiong Bahru	8150	120	2500	3700	1820	150	10	130
+Tiong Bahru Station	15330	1660	840	7760	5060	1400	0	20
+Toa Payoh Central	25380	2770	5770	11160	5690	1520	0	270
+Toa Payoh West	11890	260	6870	1050	570	840	0	480
+Toh Guan	15230	0	0	5680	9550	0	0	10
+Toh Tuck	0	0	0	0	0	0	0	0
+Townsville	21310	1330	7350	9100	3540	0	0	90
+Trafalgar	37620	0	850	18280	18490	2890	1410	2320
+Tuas Bay	0	0	0	0	0	0	0	0
+Tuas North	0	0	0	0	0	0	0	0
+Tuas Promenade	0	0	0	0	0	0	0	0
+Tuas View	0	0	0	0	0	0	0	0
+Tuas View Extension	0	0	0	0	0	0	0	0
+Tukang	0	0	0	0	0	0	0	0
+Turf Club	0	0	0	0	0	0	670	0
+Tyersall	580	0	40	250	280	2010	860	20
+Ulu Pandan	10	0	0	0	0	7590	2990	160
+Upper Paya Lebar	10770	340	1900	5620	2920	2520	2980	160
+Upper Thomson	15450	780	3670	4860	4820	7950	7980	300
+Victoria	2170	0	1480	640	50	170	0	90
+Waterway East	8580	170	0	3770	4640	0	0	0
+Wenya	8120	0	0	3470	4650	0	0	70
+West Coast	0	0	0	0	0	2910	1990	240
+Western Water Catchment	0	0	0	0	0	0	0	1040
+Woodgrove	31530	0	2000	14640	14890	3320	530	130
+Woodlands East	90880	0	0	47760	43120	4520	0	10
+Woodlands Regional Centre	0	0	0	0	0	0	0	0
+Woodlands South	31520	100	0	12650	18770	1130	0	50
+Woodlands West	31220	2360	8940	10660	9260	0	0	330
+Woodleigh	0	0	0	0	0	1510	240	60
+Xilin	0	0	0	0	0	1600	500	20
+Yew Tee	40280	0	0	17830	22460	4980	0	0
+Yio Chu Kang	0	0	0	0	0	0	0	0
+Yio Chu Kang East	0	0	0	0	0	1690	2130	85
+Yio Chu Kang North	0	0	0	0	0	0	0	0
+Yio Chu Kang West	21320	2760	8940	6020	3600	5740	410	75
+Yishun Central	1600	0	20	870	710	0	0	10
+Yishun East	32030	360	3190	19430	9050	890	0	20
+Yishun South	38970	0	4040	21510	13430	1510	0	70
+Yishun West	57250	320	22250	27770	6910	2460	0	510
+Yuhua East	26400	0	9820	8190	8390	3210	0	170
+Yuhua West	16990	190	4120	6200	6490	3100	0	80
+Yunnan	67560	220	2570	35550	29220	2550	3360	110
